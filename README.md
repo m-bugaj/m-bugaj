@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on the application to control the employee in the workplace - LocationGuard-Pro-App<br>👯 I’m looking to collaborate on big projects<br>🌱 I’m currently learning Python, Django, C# and .Net<br>💬 Ask me about anything related to web development
+🔭 I’m currently working on the application to control the employee in the workplace - LocationGuard-Pro-App<br>👯 I’m looking to collaborate on big projects<br>🌱 I’m currently learning Python, Django, C# and .Net<br>💬 Ask me about anything related to django apps, android apps, web development and YouTube SEO
 
 
 ## 🌐 Socials:
