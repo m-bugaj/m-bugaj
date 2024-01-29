@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on the application to control the employee in the workplace - LocationGuard-Pro-App<br>👯 I’m looking to collaborate on big projects<br>🌱 I’m currently learning Python, Django, C# and .Net<br>💬 Ask me about anything related to django apps, android apps, web development and YouTube SEO
+🚀 Recently, I developed a web application that is a platform for online car rental. - <a href="https://github.com/m-bugaj/Car-Rental-Hub">AutoRent - Car-Rental-Hub</a>
+<br>🔭 I’m currently working on the android application to control the employee in the workplace - <a href="https://github.com/m-bugaj/LocationGuard-Pro-App">LocationGuard-Pro-App</a>
+<br>👯 I’m looking to collaborate on big projects
+<br>🌱 I’m currently learning Python + Django, C# + .Net, ASP.NET
+<br>💬 Ask me about anything related to ASP.NET Core MVC apps, Django apps, Android apps, Web development and YouTube SEO
 
 
 ## 🌐 Socials:
