@@ -1,9 +1,9 @@
 # 💫 About Me:
-🚀 Recently, I developed a web application that is a platform for online car rental. - <a href="https://github.com/m-bugaj/Car-Rental-Hub">AutoRent - Car-Rental-Hub</a>
+</> I'm currently learning to develop Spring Boot applications in Java - <a href="https://github.com/m-bugaj/DvdRental-JavaSpringApp">DvdRental-JavaSpringApp</a>
+<br>🚀 Recently, I developed a web application that is a platform for online car rental - <a href="https://github.com/m-bugaj/Car-Rental-Hub">AutoRent - Car-Rental-Hub</a>
 <br>🔭 Recently, I've been working on the android application to control the employee in the workplace - <a href="https://github.com/m-bugaj/LocationGuard-Pro-App">LocationGuard-Pro-App</a>
-<br>👯 I’m looking to collaborate on big projects
-<br>🌱 I’m currently learning Python + Django, C# + .Net, ASP.NET
-<br>💬 Ask me about anything related to ASP.NET Core MVC apps, Django apps, Android apps, Web development and YouTube SEO
+<br>✨ I am interested in developing AI applications with Python + TensorFlow
+<br>💬 Get back to me if you need collaboration with AI projects
 
 
 ## 🌐 Socials:
